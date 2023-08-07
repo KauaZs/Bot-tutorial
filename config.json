@@ -1,0 +1,13 @@
+{
+    "devs": {
+        "kau": "573812452165156864", 
+        "drezzy": "903186158937325569"
+    },
+    "limitTicket": 1,
+    "embed_open": {
+        "title": "Ticket Aberto!",
+        "description": "Obrigado por abrir seu ticket, aguarde para ser atendido!",
+        "color": "#FFFFFF",
+        "footer": "Inside Store 😁" 
+    }
+}
